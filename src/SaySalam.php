@@ -1,6 +1,6 @@
-<?
+<?php
 
-namespace salam;
+namespace Salam;
 
 class Salam{
 
@@ -11,4 +11,6 @@ class Salam{
     public function Say(){
         return "Salam". $this->name;
     }
+
+
 }
