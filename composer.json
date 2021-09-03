@@ -1,0 +1,18 @@
+{
+    "name": "masoudhosseiny1/say-salam",
+    "description": "by instaling this library it will say salam to you on calling .",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Masoud",
+            "email": "hosseiny998@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "salam\\": "/src"
+        }
+    },
+    "require": {}
+}
